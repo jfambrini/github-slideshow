@@ -1,0 +1,6 @@
+---
+layout: slide
+title: "Welcome to John's slide!"
+---
+Your text
+Use the left arrow to go back!
